@@ -1,3 +1,9 @@
 [submodule "RFID_Reader_Server"]
 	path = RFID_Reader_Server
 	url = https://github.com/Waysker/RFID_Reader_Server
+[submodule "RFID_Reader_App"]
+	path = RFID_Reader_App
+	url = https://github.com/Waysker/RFID_Reader_App
+[submodule "RFID_Reader_ESP32"]
+	path = RFID_Reader_ESP32
+	url = https://github.com/Waysker/RFID_Reader_ESP32
